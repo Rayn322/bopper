@@ -30,5 +30,8 @@
 		"typescript": "^5.1.6",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"genius-lyrics": "^4.4.3"
+	}
 }
